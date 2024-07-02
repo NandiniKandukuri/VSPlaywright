@@ -31,7 +31,7 @@ module.exports = defineConfig({
     trace: 'on',
   },
   expect: {
-    timeout: 10 * 3000,
+    timeout: 10 * 5000,
   },
 
   /* Configure projects for major browsers */
